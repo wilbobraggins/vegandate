@@ -36,6 +36,10 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'simple_form', '~> 4.1.0'
 gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'actionpack', '~> 5.1'
+gem 'jquery-rails'
+gem 'popper_js', '~> 1.11.1'
+gem 'bootstrap', '4.0.0.alpha6'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
